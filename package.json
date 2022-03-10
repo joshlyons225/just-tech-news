@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/joshlyons225/just-tech-news#readme",
   "dependencies": {
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
   }
 }
